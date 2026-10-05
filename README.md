@@ -15,5 +15,7 @@ Gun kills Snake → Gun
 Random computer choice
 Simple and clean logic
 Beginner-friendly C project
-Author:-
-      Hasham Hameed
+
+Regards:
+
+  Hasham Hameed
